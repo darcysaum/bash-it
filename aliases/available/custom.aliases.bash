@@ -1,0 +1,1 @@
+alias grecent="git-recent"
